@@ -1,0 +1,7 @@
+SELECT DISK 0
+SELECT PARTITION 1
+Assign Letter = "S"
+SELECT PARTITION 4
+Format FS=NTFS Label=OS Quick Override
+Assign Letter ="W"
+Exit
