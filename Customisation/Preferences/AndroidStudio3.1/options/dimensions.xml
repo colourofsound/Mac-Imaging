@@ -1,0 +1,7 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.5120.2880@192dpi" x="2560" y="1112" />
+    <location key="SettingsEditor.0.0.5120.2880@192dpi" x="1534" y="420" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.5120.2880@192dpi" x="2010" y="804" />
+  </component>
+</application>
